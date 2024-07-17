@@ -1,2 +1,19 @@
+.item_description {
+  color: chocolate;
 
+}
 
+.list {
+  font-size: 20px; 
+  color:rgb(155, 89, 17); 
+  font-weight: 100;
+}
+
+.image {
+  width: 100px;
+  height: 70px;
+}
+
+.text {
+
+}
