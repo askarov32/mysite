@@ -1,0 +1,13 @@
+.news {
+  background-color: antiquewhite;
+}
+
+.news_body {
+  font-family: 'Courier New', Courier, monospaces;
+  text-align: center;
+}
+
+.news_image {
+  width: 600px;
+  height: 350px;
+}
